@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 - 🎓 I've completed my Master of Computer Applications
 
 ## Tools and Languages
-## Tools and Languages
 ![HTML](https://img.shields.io/badge/HTML-FF4500?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
